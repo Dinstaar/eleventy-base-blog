@@ -6,7 +6,7 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-![Pray-Study-Do](![Pray-Study-Do](\\img\pray-study-do.jpg "pray-study-do") "pray-study-do")
+![Pray-Study-Do]![Pray-Study-Do](\\img\PrayStudyDo.jpg "pray-study-do") "pray-study-do")
 
 ## Section Header
 
