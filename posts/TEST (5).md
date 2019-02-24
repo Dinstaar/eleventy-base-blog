@@ -6,7 +6,7 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-![Pray-Study-Do]((img/PrayStudyDo.jpg) "pray-study-do")
+![Pray-Study-Do]((../img/PrayStudyDo.jpg) "pray-study-do")
 
 
 
