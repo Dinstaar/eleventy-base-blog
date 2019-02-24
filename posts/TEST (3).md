@@ -6,7 +6,7 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-![Pray-Study-Do](https://picasaweb.google.com/102659708996763504553/6661384271862881777#6661384277513750898 "pray-study-do")
+![Pray-Study-Do](![Pray-Study-Do](\\img\pray-study-do.jpg "pray-study-do") "pray-study-do")
 
 ## Section Header
 
