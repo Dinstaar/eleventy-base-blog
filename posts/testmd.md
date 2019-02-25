@@ -2,7 +2,7 @@
 title: This is test .MD.
 description: This is a post on My Blog about touchpoints and circling wagons.
 date: 2019-01-30
-tags: second-tag
+tags: PRAY
 layout: layouts/post.njk
 
 ---
