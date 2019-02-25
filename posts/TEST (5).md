@@ -6,7 +6,7 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-[a relative link](praystudydo.jpg)
+[a relative link](PrayStudyDo.jpg)
 
 
 
