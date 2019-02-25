@@ -6,7 +6,8 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-[a relative link](PrayStudyDo.jpg)
+
+![Alt text](/img/PrayStudyDo.jpg?raw=true "Title")
 
 
 
