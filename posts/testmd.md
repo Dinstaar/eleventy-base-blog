@@ -6,8 +6,8 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-![Pray-Study-Do]![Pray-Study-Do](https://github.com/Dinstaar/eleventy-base-blog/blob/master/img/PrayStudyDo.jpg "pray-study-do")
+![roadside picture of sign say Pray-Study-Do](/img/PrayStudyDo.jpg?raw=true "wisdom")
 
 ## Section Header
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+some text
