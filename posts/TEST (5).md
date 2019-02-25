@@ -6,8 +6,7 @@ tags: second-tag
 layout: layouts/post.njk
 
 ---
-![Pray-Study-Do]((https://github.com/Dinstaar/eleventy-base-blog/blob/master/img/PrayStudyDo.jpg "pray-study-do")
-https://github.com/Dinstaar/eleventy-base-blog/blob/master/img/PrayStudyDo.jpg
+[a relative link](praystudydo.jpg)
 
 
 
