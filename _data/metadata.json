@@ -1,16 +1,16 @@
 {
-  "title": "FirstPost",
-  "url": "https://pray-study-do.org/",
+  "title": "Pray-Study-Do",
+  "url": "https://fervent-brahmagupta-b0a4d3.netlify.com/",
   "description": "My blog.",
   "feed": {
     "subtitle": "About my walk",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://fervent-brahmagupta-b0a4d3.netlify.com//feed/feed.xml",
+    "id": "https://fervent-brahmagupta-b0a4d3.netlify.com//"
   },
   "author": {
     "name": "Hoss",
-    "email": "envelopministry.org"
+    "email": "admin@pray-study-do.org"
   }
 }

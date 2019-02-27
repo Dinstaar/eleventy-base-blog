@@ -7,4 +7,5 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+I'm Hoss the writter of these post.
+Contact me at admin@pray-study-do.org
