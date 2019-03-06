@@ -1,5 +1,5 @@
 ---
-title: Mountian Miracle – Hand of God Moves Clouds Away.
+title: Mountain Miracle – Hand of God Moves Clouds Away.
 description: My past
 date: 2018-10-20
 tags:
