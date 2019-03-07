@@ -1,4 +1,3 @@
-﻿
 ---
 title: YourTitleGoesHere.
 description: YourDescriptionHere
@@ -8,3 +7,4 @@ tags:
 layout: layouts/post.njk
 ---
 Your Text here
+
