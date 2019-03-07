@@ -1,9 +1,9 @@
 ---
-title: Mountain Miracle2 – Hand of God Moves Clouds Away.
-description: My past
-date: 2018-10-20
+title: Status.
+description: An update
+date: 2019-03-07
 tags:
-  - Miracle-tag
+  - Info-tag
 layout: layouts/post.njk
 ---
 
