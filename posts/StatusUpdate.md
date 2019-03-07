@@ -1,5 +1,5 @@
 ---
-title: Status.
+title: Blog Status.
 description: An update
 date: 2019-03-07
 tags:
