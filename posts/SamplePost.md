@@ -1,4 +1,3 @@
-﻿
 ---
 title: YourTitleGoesHere.
 description: YourDescriptionHere
