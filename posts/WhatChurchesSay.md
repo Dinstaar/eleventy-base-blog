@@ -13,5 +13,4 @@ An outreach church mocks might have disdain and mock other assemblies as dying, 
 and I, I mocked the young man at Kroger who dressed so oddly.  
 The Spirit must grieve at our thoughts.
 
-.  Make sure there is no space at line number 1
-Rename file
+
