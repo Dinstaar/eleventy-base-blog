@@ -1,7 +1,7 @@
 ---
-title: YourTitleGoesHere.
-description: YourDescriptionHere
-date: 2019-03-07
+title: What We Say
+description: reflection on judging others
+date: 2019-04-15
 tags:
   - Info-tag
 layout: layouts/post.njk
