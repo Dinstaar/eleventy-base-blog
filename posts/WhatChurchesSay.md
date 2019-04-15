@@ -12,7 +12,7 @@ Believers are the living temple, holy ground where the Spirit dwells among us.  
 
   Some of us at big churches mock the little church for it’s cultishness, its lack of growth, and isolation from the world.
 
-  Some in the established churches mock the others for their worldliness, loss of tradition and even how they dress and style of worship music.
+  Some in the established churches mock the others for their worldliness, loss of tradition and even how they dress and their style of worship music.
 
   Some at the outreach church mocks differnet assemblies saying they are dried up and dying, for they don’t evangelize with zeal.
 
