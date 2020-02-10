@@ -3,7 +3,7 @@ title: Faith or Knowledge
 description: Pondering
 date: 2020-02-10
 tags:
-  - Intro-tag
+  - Faith-tag
 layout: layouts/post.njk
 ---
 
