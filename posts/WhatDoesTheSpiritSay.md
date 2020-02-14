@@ -1,7 +1,7 @@
 ---
 title: What Does the Spirit Say?
 description: Pondering
-date: 2020-02-10
+date: 2020-02-14
 tags:
   - Faith-tag
 layout: layouts/post.njk
